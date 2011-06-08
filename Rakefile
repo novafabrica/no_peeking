@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "no_peeking"
   gem.homepage = "http://github.com/FotoVerite/no_peeking"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Easy setup of Http Authentication}
+  gem.description = %Q{TEasy setup of Http Authentication}
   gem.email = "mzbphoto@gmail.com"
   gem.authors = ["Matthew Bergman"]
   # dependencies defined in Gemfile
